@@ -1,6 +1,6 @@
 # R for Data Science
 
-Pre-requisite: [`R Programming/`](https://github.com/Bioinformatics-Research-Network/training-requirements/tree/main/R%20Programming)
+Suggested pre-requisites: [R Programming](https://github.com/Bioinformatics-Research-Network/training-requirements/tree/main/R%20Programming)
 
 `R` is an excellent language for Data Science. Some might even argue that Data Science is what `R` is for! 
 
@@ -45,7 +45,7 @@ Now, without further guidance, use your `R` Data Science skills (and appropriate
 
 For each question, you should generate summary visualizations (preferrably interactive ones) that demonstrate your answer to each question. Additionally, the analysis must be user-friendly for a non-programmer and should intuitively convey the insights you uncovered. Use `markdown` to ensure that the text is organized, readable, and stylish. For an example an a well-done RMarkdown report see [this example](https://static-html-pages.s3-us-west-2.amazonaws.com/merck-project/RloopCorrelationSummary.html).  
 
-Once you are done, export your `RMarkdown` to an `.html` file and share it with Henry.
+Once you are done, export your `RMarkdown` to an `.html` file. All code and the resulting report should be commited using `git` and pushed to your fork of the training repo on GitHub. Once you are finished, let Henry know and he will check your `.html` file on GitHub. 
 
 ## Learning Resources
 
