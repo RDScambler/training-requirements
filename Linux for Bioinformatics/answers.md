@@ -14,7 +14,7 @@ A3. The output of `ls` in `my_folder` is nothing (empty directory), and in `my_f
 
 **Q4. What is the output of each?**
 
-A4. The output of `ls` in my_folder` and `my_folder2` is nothing (empty directory), and in `my_folder3` is `hello_world.txt`.
+A4. The output of `ls` in `my_folder` and `my_folder2` is nothing (empty directory), and in `my_folder3` is `hello_world.txt`.
 
 **Q5. Why didn't that work?**
 
